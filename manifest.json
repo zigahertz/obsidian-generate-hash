@@ -1,7 +1,7 @@
 {
 	"id": "obsidian-hash",
 	"name": "Obsidian Hash",
-	"version": "1.0.0",
+	"version": "1.0.1",
 	"minAppVersion": "0.15.0",
 	"description": "Inserts a cryptographically strong pseudorandom hash.",
 	"author": "zigahertz",

@@ -1,4 +1,4 @@
-# Obsidian Hash
+# Obsidian Generate Hash Plugin
 
 A small plugin for generating a cryptographically strong pseudorandom hash value using [`crypto.randomBytes`](https://nodejs.org/api/crypto.html#cryptorandombytessize-callback). Useful for generating unique IDs. 
 

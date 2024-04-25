@@ -15,7 +15,7 @@ export default class HashPlugin extends Plugin {
 	async onload() {
 		await this.loadSettings();
 
-		this.addRibbonIcon('braces', 'Obsidian Hash', (evt: MouseEvent) => {
+		this.addRibbonIcon('braces', 'Hash', (evt: MouseEvent) => {
       const view = this.app.workspace.getActiveViewOfType(MarkdownView);
       if (view) {
         this.generateHash(view.editor)
